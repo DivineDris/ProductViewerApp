@@ -20,6 +20,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+
 .product-grid {
     display: flex;
     flex-wrap: wrap;
@@ -34,4 +35,3 @@ body {
     width: 200px;
     text-align: center;
 }
-

@@ -15,8 +15,6 @@
         public string? FormattedName => System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(Name);
 
         public string? FormattedPrice => $"{Price:N2} €";
-
-
-
     }
 }
+
